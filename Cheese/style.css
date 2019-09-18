@@ -1,0 +1,40 @@
+div {
+    border: 2px dotted red;
+}
+
+div.first {
+    background-color: lightgreen;
+    width: 200px;
+        
+}
+
+div.second {
+    background-color: lightskyblue;
+    width: 175px;
+}
+
+html {
+    background-color: brown;
+}
+
+body {
+    background-color: white;
+    width: 600px;
+    margin: 0 auto;
+    padding: 10px 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: darkorange;
+    font-size: 40px;
+    text-align: center;
+}
+
+.bottom_para {
+    text-align: center;
+}
+
+img {
+    border-radius:  15px;
+}
